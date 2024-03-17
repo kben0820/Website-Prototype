@@ -1,0 +1,243 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
+
+.backstory {
+  color: white;
+  font-size: 25px;
+  text-align: left;
+  padding-left: 100px;
+}
+
+.backstorypt2 {
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  padding-left: 25px;
+  margin-left: 35px;
+  margin-right: 35px;
+}
+
+.iframe {
+  float: right;
+  padding-right: 90px;
+}
+
+.iframetext {
+  color: white;
+  text-align: right;
+  padding-top: 40px;
+  padding-right: 420px;
+  font-size: 19px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+body {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  padding-left: 5%;
+}
+
+.img2 {
+  float: left;
+  margin-right: 20px;
+  margin-left: 50px;
+}
+
+.one {
+  color: white;
+  font-size: 25px;
+  padding-left: 400px;
+  margin-left: 200px;
+  padding-top: 0px;
+  font-style: italic;
+  margin-right: 100px;
+}
+
+.two {
+  color: white;
+  padding-top: 56px;
+  padding-left: 20px;
+  font-size: 25px;
+}
+
+.img3 {
+  float: left;
+  margin-right: 20px;
+  margin-left: 100px;
+  width: 25%;
+  padding-top: 55px;
+}
+
+.three {
+  color: white;
+  font-size: 25px;
+  padding-left: 400px;
+  margin-left: 200px;
+  padding-top: 50px;
+  font-style: italic;
+  margin-right: 150px;
+}
+
+.four {
+  color: white;
+  padding-top: 59px;
+  text-align: left;
+  padding-left: 60px;
+  font-size: 25px;
+}
+
+.img4 {
+  float: left;
+  margin-right: 20px;
+  margin-left: 100px;
+  width: 25%;
+  padding-top: 55px;
+}
+
+.five {
+  color: white;
+  font-size: 25px;
+  padding-left: 400px;
+  margin-left: 200px;
+  padding-top: 60px;
+  font-style: italic;
+  margin-right: 150px;
+}
+
+.six {
+  color: white;
+  padding-top: 90px;
+  text-align: left;
+  padding-left: 60px;
+  font-size: 25px;
+}
+
+.img5 {
+  float: left;
+  margin-right: 20px;
+  margin-left: 100px;
+  width: 25%;
+  padding-top: 55px;
+}
+
+.seven {
+  color: white;
+  font-size: 25px;
+  padding-left: 400px;
+  margin-left: 200px;
+  padding-top: 70px;
+  font-style: italic;
+  margin-right: 150px;
+}
+
+.eight {
+  color: white;
+  padding-top: 120px;
+  text-align: left;
+  padding-left: 60px;
+  font-size: 25px;
+}
+
+.img6 {
+  float: left;
+  margin-right: 20px;
+  margin-left: 100px;
+  width: 25%;
+  padding-top: 55px;
+}
+
+.nine {
+  color: white;
+  font-size: 25px;
+  padding-left: 400px;
+  margin-left: 200px;
+  padding-top: 80px;
+  font-style: italic;
+  margin-right: 150px;
+}
+
+.ten {
+  color: white;
+  padding-top: 20px;
+  text-align: left;
+  padding-left: 60px;
+  font-size: 25px;
+}
+
+.img7 {
+  float: left;
+  margin-right: 20px;
+  margin-left: 100px;
+  width: 25%;
+  padding-top: 55px;
+}
+
+.eleven {
+  color: white;
+  font-size: 25px;
+  padding-left: 400px;
+  margin-left: 200px;
+  padding-top: 50px;
+  font-style: italic;
+  margin-right: 150px;
+}
+
+.twelve {
+  color: white;
+  padding-top: 20px;
+  text-align: left;
+  padding-left: 60px;
+  font-size: 25px;
+}
+
+.image1 {
+    position: absolute;
+  padding-left: 680px;
+  padding-top: 310px;
+  width: 20%;
+}
+
+.image2 {
+  position: absolute;
+  padding-left: 600px;
+  width: 32%;
+}
+
+a {
+  color: white;
+  font-size: 35px;
+  padding-left: 700px;
+}
+
+a:link {
+  color: red;
+  text-decoration: none;
+}
+
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+
+a:active {
+  color: blue;
+}
